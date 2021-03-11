@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615413569 source:g:\eslam\eslamsci files\micro controllers\amit embedded diploma\c_learning\first_session\assignment2\asg_2_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
